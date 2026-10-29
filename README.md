@@ -1,1 +1,1 @@
-![Uploading diagram.png…]()
+[![Architecture diagram of nvlabs/gr00t-visualsim2real](https://gitdiagram.com/nvlabs/gr00t-visualsim2real/diagram.png)](https://gitdiagram.com/nvlabs/gr00t-visualsim2real?utm_source=readme&utm_medium=picture)
